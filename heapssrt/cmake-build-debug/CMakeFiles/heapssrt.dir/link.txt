@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/heapssrt.dir/main.cpp.o  -o heapssrt 

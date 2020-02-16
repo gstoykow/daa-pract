@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/traingraph.dir/main.cpp.o  -o traingraph 

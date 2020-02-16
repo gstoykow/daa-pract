@@ -1,0 +1,3 @@
+/home/georgi/CLionProjects/traingraph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/georgi/CLionProjects/traingraph/cmake-build-debug/CMakeFiles/traingraph.dir
+/home/georgi/CLionProjects/traingraph/cmake-build-debug/CMakeFiles/edit_cache.dir
